@@ -74,6 +74,94 @@ Peluang :
 Terlihat peluang keberhasilan x = 4 pada 1.000.000 percobaan adalah 0.218655 yang dimana, mendekati perhitungan exact yaitu 0.2181994
 
 # 2.C
+Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Binomial.
+
+![image](https://user-images.githubusercontent.com/82025946/162617332-41657c40-2967-4ef6-90b4-0bef6322ad0b.png)
+
+# Nomor 3
+Diketahui data dari  sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis 4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
+
+# 3.A
+Berapa peluang bahwa 6 bayi akan lahir di rumah sakit ini besok?
+
+![image](https://user-images.githubusercontent.com/82025946/162619304-94f3e3c4-40a1-4e32-8699-b808e038accc.png)
+
+Jawaban : 0.1821201
+
+# 3.B
+simulasikan dan buatlah histogram kelahiran 6 bayi akan lahir di rumah sakit ini  selama setahun (n = 365)
+
+Code : 
+
+![image](https://user-images.githubusercontent.com/82025946/162619909-97664abe-9ce3-4800-9329-04ed860ad016.png)
+
+Dist Babies :
+
+![image](https://user-images.githubusercontent.com/82025946/162619927-2b0fb92e-1ec3-4e7d-b2a4-661330611c7f.png)
+
+Histogram :
+
+![image](https://user-images.githubusercontent.com/82025946/162619913-1685026d-eafc-43cf-9412-1983d4256a5e.png)
+
+# 3.C
+Beberapa percobaan :
+
+![image](https://user-images.githubusercontent.com/82025946/162620098-b5cf16fc-ceb1-41f2-9939-60551b0cdf77.png)
+
+Hasil poin A selalu tetap sedangkan C berubah ubah, sehingga dapat disimpulkan bahwa poin A merupakan nilai exact dari distribusi poisson sedangkan C merupakan hasil pendekatan menggunakan data random sebanyak n = 365
+
+# 3.D
+Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Poisson.
+
+μ = 4.5
+
+σ² = 4.5
+
+![image](https://user-images.githubusercontent.com/82025946/162620180-86d66776-8f44-4a2b-ba75-554051fac9e6.png)
+
+# Nomor 4
+Diketahui nilai x = 2 dan v = 10. Tentukan:
+
+# 4.A
+Fungsi Probabilitas dari Distribusi Chi-Square.
+
+![image](https://user-images.githubusercontent.com/82025946/162620294-a1997905-4965-4f1c-b4ab-e48ac367b3d7.png)
+
+# 4.B
+Histogram dari Distribusi Chi-Square dengan 100 data random.
+
+![image](https://user-images.githubusercontent.com/82025946/162620423-9422ce51-4426-429d-a0ef-d227d9789dee.png)
+
+# 4.C
+Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Chi-Square.
+
+v = 10
+
+μ = 10
+
+σ² = 20
+
+![image](https://user-images.githubusercontent.com/82025946/162620483-82958678-a358-429f-855a-d1d3d865bca9.png)
+
+# Nomor 5
+Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan
+
+# 5.A
+Fungsi Probabilitas dari Distribusi Exponensial 
+
+
+# 5.B
+Histogram dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan random
+
+Code : 
+
+![image](https://user-images.githubusercontent.com/82025946/162620865-286108d4-2251-4056-9374-294dfdf3f386.png)
+
+n = 10
+
+![image](https://user-images.githubusercontent.com/82025946/162620930-026508ae-df57-42be-a981-bc765f532fb2.png)
+
+n = 100
 
 
 
