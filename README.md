@@ -212,7 +212,7 @@ Plot :
 
 ![image](https://user-images.githubusercontent.com/82025946/162623535-5f56b633-6b70-44fb-b9fc-b2e52e91ac62.png)
 
-# 6.C
+# 6.B
 Generate Histogram dari Distribusi Normal dengan breaks 50 dan format penamaan: 
 
 NRP_Nama_Probstat_{Nama Kelas}_DNhistogram
