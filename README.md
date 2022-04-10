@@ -149,6 +149,7 @@ Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Te
 # 5.A
 Fungsi Probabilitas dari Distribusi Exponensial 
 
+![image](https://user-images.githubusercontent.com/82025946/162622212-8f036d9e-52a6-4621-82a0-c26dbf77bbf7.png)
 
 # 5.B
 Histogram dari Distribusi Exponensial untuk 10, 100, 1000 dan 10000 bilangan random
@@ -162,6 +163,76 @@ n = 10
 ![image](https://user-images.githubusercontent.com/82025946/162620930-026508ae-df57-42be-a981-bc765f532fb2.png)
 
 n = 100
+
+![image](https://user-images.githubusercontent.com/82025946/162621446-16564aef-29f9-4f11-86ff-a23efdacd36f.png)
+
+n = 1000
+
+![image](https://user-images.githubusercontent.com/82025946/162621540-3bcbae56-abab-4897-9aab-d922d1617afe.png)
+
+n = 10000
+
+![image](https://user-images.githubusercontent.com/82025946/162621638-fc7585cf-3114-448d-8ac5-d6b006a41bf2.png)
+
+# 5.C
+Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Exponensial untuk n = 100 dan λ = 3
+Petunjuk: 
+  Gunakan set.seed(1)
+  Gunakan fungsi bawaan R
+
+![image](https://user-images.githubusercontent.com/82025946/162623205-f06a7ca4-9c89-4601-9ef6-d4ce619f296d.png)
+
+# Nomor 6
+Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8. Tentukan
+
+# 6.A
+Fungsi Probabilitas dari Distribusi Normal P(X1 ≤ x ≤ X2), hitung Z-Score Nya dan plot data generate randomnya dalam bentuk grafik. Petunjuk(gunakan fungsi plot()).
+
+Keterangan : 
+
+X1 = Dibawah rata-rata 
+
+X2 = Diatas rata-rata
+
+Contoh data :
+
+1,2,4,2,6,3,10,11,5,3,6,8
+
+rata-rata = 5.083333
+
+X1 = 5
+
+X2 = 6
+
+Code : 
+
+![image](https://user-images.githubusercontent.com/82025946/162623487-c21463a6-04f2-4c9c-aa1f-0dad0351f719.png)
+
+Plot : 
+
+![image](https://user-images.githubusercontent.com/82025946/162623535-5f56b633-6b70-44fb-b9fc-b2e52e91ac62.png)
+
+# 6.C
+Generate Histogram dari Distribusi Normal dengan breaks 50 dan format penamaan: 
+
+NRP_Nama_Probstat_{Nama Kelas}_DNhistogram
+
+Contoh :
+
+312312312_Rola_Probstat_A_DNhistogram
+
+Code : 
+
+![image](https://user-images.githubusercontent.com/82025946/162623720-203a3aa1-5f96-4eab-9620-6e9adca33fc5.png)
+
+Histogram :
+
+![image](https://user-images.githubusercontent.com/82025946/162623645-1a351901-5f9f-449f-a5a8-bd897cb8e642.png)
+
+# 6.C
+Nilai Varian (σ²) dari hasil generate random nilai Distribusi Normal.
+
+![image](https://user-images.githubusercontent.com/82025946/162623734-8eef5299-47c2-4f14-96e8-5ab8602bcb08.png)
 
 
 
