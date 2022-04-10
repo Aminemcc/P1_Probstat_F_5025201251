@@ -1,4 +1,8 @@
 # P1_Probstat_F_5025201251
+
+# Nomor 1
+Seorang penyurvei secara acak memilih orang-orang di jalan sampai dia bertemu dengan seseorang yang menghadiri acara vaksinasi sebelumnya. 
+
 # 1.A
 Berapa peluang penyurvei bertemu x = 3 orang yang tidak menghadiri acara vaksinasi  sebelum keberhasilan pertama ketika p = 0,20 dari populasi menghadiri acara vaksinasi ? (distribusi Geometrik)
 
@@ -37,6 +41,39 @@ Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik.
 σ² = (1 - P) / P ^ 2
 
 ![image](https://user-images.githubusercontent.com/82025946/162615414-c56595f0-5108-403e-9af2-ac1c0def3d9a.png)
+
+# Nomor 2
+Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :
+
+# 2.A
+Peluang terdapat 4 pasien yang sembuh.
+
+![image](https://user-images.githubusercontent.com/82025946/162615671-a95368d0-7f87-4dbf-8afc-7df02d747b3d.png)
+
+Jawab : 0.2181994
+
+Fungsi dbinom stands for distribution binomial
+
+# 2.B
+Gambarkan grafik histogram berdasarkan kasus tersebut.
+
+![image](https://user-images.githubusercontent.com/82025946/162616741-84467fd5-1336-4368-91f5-8466fa8442c7.png)
+
+![image](https://user-images.githubusercontent.com/82025946/162616759-49fdb24c-9963-42a1-b3d2-44aca69cbd1c.png)
+
+Banyak Percobaan : 1000000
+
+Histogram :
+
+![image](https://user-images.githubusercontent.com/82025946/162616809-db83b88c-36e8-4ac1-98ab-c06753595b0a.png)
+
+Peluang :
+
+![image](https://user-images.githubusercontent.com/82025946/162616799-df2be340-e34f-4387-a832-3d2e6d844802.png)
+
+Terlihat peluang keberhasilan x = 4 pada 1.000.000 percobaan adalah 0.218655 yang dimana, mendekati perhitungan exact yaitu 0.2181994
+
+# 2.C
 
 
 
